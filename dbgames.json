@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "God of War",
+      "descricao": "Eduque a criança teimosa.",
+      "foto": "jogo1.png",
+      "preco": 279
+    },
+    {
+      "id": 2,
+      "produto": "Factorio",
+      "descricao": "Construa seu próprio foguete",
+      "foto": "jogo2.jpeg",
+      "preco": 129
+    },
+    {
+      "id": 3,
+      "produto": "NFS Undergroud 2",
+      "descricao": "Unico lugar que 206 presta.",
+      "foto": "jogo3.jpg",
+      "preco": 99
+    }
+  ]
+}
